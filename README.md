@@ -1,5 +1,5 @@
 Developing Data Products - Peer Assesment Projects
-by Shahid
+by Kyu Cho
 ======================
 
 ### Shiny Application
@@ -20,7 +20,7 @@ The documentation should be at the Shiny website itself. Do not post to an exter
 The Shiny application in question is entirely up to you. However, if you're having trouble coming up with ideas, you could start from the simple prediction algorithm done in class and build a new algorithm on one of the R datasets packages. Please make the package simple for the end user, so that they don't need a lot of your prerequisite knowledge to evaluate your application. You should emphasize a simple project given the short time frame.  
 
 ### Reproducible Pitch Presentation
-**Direct Access to SEEC Pitch (Slidify):** https://kyucho.shinyapps.io/proj//
+**Direct Access to SEEC Pitch (Slidify):** http://jamin567.github.io/pres
 
 OK, you've made your shiny app, now it's time to make your pitch. You get 5 slides (inclusive of the title slide)  to pitch a your app. You're going to create a web page using Slidify with an html5 slide deck.
 

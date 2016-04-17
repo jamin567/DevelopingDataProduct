@@ -35,7 +35,7 @@ SEEC application is consist of 4 parts.
 <div style='text-align: center;'>
     <img src='assets/img/Snap3.jpg' />
 </div>   
-[Student Enrollment Estimation in Colleges App Hosted by shinyapps.io](https://shahid.shinyapps.io/Student_Enrollment_Estimation)  
+[Student Enrollment Estimation in Colleges App Hosted by shinyapps.io](https://kyucho.shinyapps.io/proj/)  
 
 ---
 
@@ -49,3 +49,17 @@ SEEC application is consist of 4 parts.
 ## Female Enrollment Plot
 
 <iframe src="assets/img/f1.html", width=100%, height=600></iframe>
+
+```
+## Warning: running command 'git add .' had status 127
+```
+
+```
+## Warning: running command 'git commit -a -m "publishing deck"' had status
+## 127
+```
+
+```
+## Warning: running command 'git push git@github.com:jamin567/
+## DevelopingDataProduct gh-pages' had status 127
+```
